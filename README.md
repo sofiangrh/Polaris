@@ -1,0 +1,2 @@
+# Polaris
+Metacity Theme
