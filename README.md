@@ -19,7 +19,7 @@ Dark luminous theme with many colors to use. It is released in 2 versions:
 # Screenshot
 ![](https://sites.google.com/site/novomente/_/rsrc/1293105641763/polaris-metacity-theme/polaris_rounded_blue.png)
 
-> Info
+# Info
 > In XML source of Polaris theme I used Metacity internal variables. So it's easy to change for example border size. Simply change frame_geometry parameters (for better look of the theme read comments close to each frame_geometry). To do so you will need basic knowledge of Metacity theming.
 
 # Credits to
